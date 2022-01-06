@@ -1,0 +1,1 @@
+select match_id,player_id,role_desc from (select * from player_match where team_id = 1) where role_desc = 'Player';

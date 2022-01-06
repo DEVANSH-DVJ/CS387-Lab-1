@@ -1,0 +1,277 @@
+1,SC Ganguly,1972-07-08,Left-hand bat,Right-arm medium,India
+6,R Dravid,1973-01-11,Right-hand bat,Right-arm offbreak,India
+7,W Jaffer,1978-02-16,Right-hand bat,Right-arm offbreak,India
+8,V Kohli,1988-11-05,Right-hand bat,Right-arm medium,India
+12,B Akhil,1977-10-07,Right-hand bat,Right-arm medium-fast,India
+14,P Kumar,1986-10-02,Right-hand bat,Right-arm medium,India
+15,Z Khan,1978-10-07,Right-hand bat,Left-arm fast-medium,India
+16,SB Joshi,1970-06-06,Left-hand bat,Slow left-arm orthodox,India
+17,PA Patel,1985-03-09,Left-hand bat,N/A,India
+20,MS Dhoni,1981-07-07,Right-hand bat,Right-arm medium,India
+21,SK Raina,1986-11-27,Left-hand bat,Right-arm offbreak,India
+23,S Badrinath,1980-08-30,Right-hand bat,Right-arm offbreak,India
+24,K Goel,1986-12-24,Left-hand bat,Right-arm offbreak,India
+27,Yuvraj Singh,1981-12-12,Left-hand bat,Slow left-arm orthodox,India
+29,IK Pathan,1984-10-27,Left-hand bat,Left-arm medium-fast,India
+30,T Kohli,1988-12-17,Right-hand bat,Right-arm medium,India
+31,YK Pathan,1982-11-17,Right-hand bat,Right-arm offbreak,India
+33,M Kaif,1980-12-01,Right-hand bat,Right-arm offbreak,India
+35,RA Jadeja,1988-12-06,Left-hand bat,Slow left-arm orthodox,India
+36,M Rawat,1985-10-25,Right-hand bat,N/A,India
+37,D Salunkhe,1982-11-12,Right-hand bat,Legbreak,India
+39,SK Trivedi,1982-09-04,Right-hand bat,Right-arm medium,India
+40,G Gambhir,1981-10-14,Left-hand bat,Legbreak,India
+41,V Sehwag,1978-10-20,Right-hand bat,Right-arm offbreak,India
+42,S Dhawan,1985-12-05,Left-hand bat,Right-arm offbreak,India
+46,RV Uthappa,1985-11-11,Right-hand bat,Right-arm medium,India
+47,PR Shah,1987-11-03,Right-hand bat,N/A,India
+48,AM Nayar,1983-10-08,Left-hand bat,Right-arm medium,India
+50,Harbhajan Singh,1980-07-03,Right-hand bat,Right-arm offbreak,India
+54,Y Venugopal Rao,1982-02-26,Right-hand bat,Right-arm offbreak,India
+55,VVS Laxman,1974-11-01,Right-hand bat,Right-arm offbreak,India
+57,RG Sharma,1987-04-30,Right-hand bat,Right-arm offbreak,India
+59,SB Bangar,1972-10-11,Right-hand bat,Right-arm medium-fast,India
+61,RP Singh,1985-12-06,Right-hand bat,Left-arm fast-medium,India
+62,WP Saha,1984-10-24,Right-hand bat,N/A,India
+63,LR Shukla,1981-05-06,Right-hand bat,Right-arm medium,India
+65,S Sohal,1987-11-10,Right-hand bat,Legbreak,India
+67,PP Chawla,1988-12-24,Left-hand bat,Legbreak,India
+68,WA Mota,1981-09-20,Right-hand bat,Right-arm medium,India
+72,MA Khote,1980-04-22,Right-hand bat,Right-arm medium,India
+73,A Nehra,1979-04-29,Right-hand bat,Left-arm medium-fast,India
+75,Pankaj Singh,1985-05-06,Right-hand bat,Right-arm medium-fast,India
+77,S Sreesanth,1983-02-06,Right-hand bat,Right-arm fast-medium,India
+78,VRV Singh,1984-09-17,Right-hand bat,Right-arm medium-fast,India
+79,SS Tiwary,1989-12-30,Left-hand bat,N/A,India
+80,DS Kulkarni,1988-12-10,Right-hand bat,Right-arm medium,India
+81,R Vinay Kumar,1984-02-12,Right-hand bat,Right-arm medium,India
+82,AB Agarkar,1977-12-04,Right-hand bat,Right-arm fast,India
+83,M Kartik,1976-09-11,Left-hand bat,Slow left-arm orthodox,India
+84,I Sharma,1988-09-02,Right-hand bat,Right-arm fast-medium,India
+85,AM Rahane,1988-06-06,Right-hand bat,Right-arm medium,India
+87,MK Tiwary,1985-11-14,Right-hand bat,Legbreak googly,India
+88,KD Karthik,1985-06-01,Right-hand bat,N/A,India
+89,R Bhatia,1979-10-22,Right-hand bat,Right-arm medium-fast,India
+90,MF Maharoof,1984-09-07,Right-hand bat,Right-arm fast-medium,India
+91,VY Mahesh,1987-12-21,Right-hand bat,Right-arm medium-fast,India
+92,TM Srivastava,1989-11-07,Left-hand bat,Right-arm medium,India
+93,B Chipli,1983-01-27,Right-hand bat,Right-arm medium,India
+95,DB Das,1986-09-22,Right-hand bat,Legbreak googly,India
+96,MK Pandey,1989-09-10,Right-hand bat,Right-arm medium,India
+99,D Kalyankrishna,1983-12-16,Right-hand bat,Right-arm medium-fast,India
+101,SA Asnodkar,1984-03-29,Right-hand bat,Right-arm offbreak,India
+106,AB Dinda,1984-03-25,Right-hand bat,Right-arm medium-fast,India
+108,S Vidyut,1981-12-03,Left-hand bat,Slow left-arm orthodox,India
+112,DB Ravi Teja,1987-09-05,Right-hand bat,Legbreak googly,India
+114,YV Takawale,1984-11-05,Right-hand bat,N/A,India
+115,RR Raje,1986-09-03,Right-hand bat,Right-arm fast-medium,India
+116,PJ Sangwan,1990-11-05,Right-hand bat,Left-arm medium,India
+119,Joginder Sharma,1983-10-23,Right-hand bat,Right-arm fast-medium,India
+120,MS Gony,1984-01-04,Right-hand bat,Right-arm medium,India
+123,DT Patil,1984-12-06,Right-hand bat,N/A,India
+124,A Kumble,1970-10-17,Right-hand bat,Legbreak googly,India
+125,S Anirudha,1987-04-14,Right-hand bat,N/A,India
+126,MM Patel,1983-07-12,Right-hand bat,Right-arm medium-fast,India
+128,A Chopra,1977-09-19,Right-hand bat,Right-arm offbreak,India
+130,J Arunkumar,1975-01-18,Right-hand bat,Right-arm offbreak,India
+131,PP Ojha,1986-09-05,Left-hand bat,Slow left-arm orthodox,India
+132,SP Goswami,1989-05-18,Left-hand bat,N/A,India
+133,SR Tendulkar,1973-04-24,Right-hand bat,Right-arm offbreak,India
+134,U Kaul,1987-12-02,Left-hand bat,N/A,India
+136,A Mishra,1982-11-24,Right-hand bat,Legbreak,India
+138,NK Patel,1981-03-26,Left-hand bat,N/A,India
+140,Iqbal Abdulla,1989-12-02,Left-hand bat,Slow left-arm orthodox,India
+142,PM Sarvesh Kumar,1989-04-26,Right-hand bat,Right-arm medium,India
+143,DP Vijaykumar,1986-10-20,Right-hand bat,Right-arm medium,India
+146,H Das,1986-12-10,Right-hand bat,N/A,India
+148,SD Chitnis,1987-05-06,Right-hand bat,Right-arm offbreak,India
+150,VS Yeligati,1985-04-23,Right-hand bat,Right-arm offbreak,India
+151,L Balaji,1981-09-27,Right-hand bat,Right-arm medium-fast,India
+152,A Mukund,1990-01-06,Left-hand bat,Legbreak googly,India
+153,RR Powar,1978-05-20,Right-hand bat,Right-arm offbreak,India
+160,Kamran Khan,1991-03-10,Left-hand bat,Left-arm medium-fast,India
+164,R Bishnoi,1987-10-08,Right-hand bat,Right-arm medium-fast,India
+166,KV Sharma,1987-10-23,Left-hand bat,Legbreak googly,India
+167,PC Valthaty,1983-12-07,Right-hand bat,Right-arm medium,India
+169,AS Raut,1987-03-03,Right-hand bat,Legbreak googly,India
+170,Yashpal Singh,1981-11-27,Right-hand bat,Right-arm medium,India
+171,M Manhas,1979-10-12,Right-hand bat,Right-arm offbreak,India
+172,AA Bilakhia,1986-05-31,Right-hand bat,Right-arm medium,India
+173,AN Ghosh,1986-10-19,Right-hand bat,Right-arm medium,India
+178,TL Suman,1983-12-15,Right-hand bat,Right-arm offbreak,India
+181,KP Appanna,1988-12-20,Right-hand bat,Slow left-arm orthodox,India
+183,NV Ojha,1983-07-20,Right-hand bat,N/A,India
+185,M Vijay,1984-04-01,Right-hand bat,Right-arm offbreak,India
+186,SB Jakati,1980-11-27,Left-hand bat,Slow left-arm orthodox,India
+193,C Nanda,1979-03-29,Right-hand bat,Legbreak,India
+196,A Singh,1981-06-21,Right-hand bat,Right-arm medium-fast,India
+199,Y Nagar,1990-01-06,Right-hand bat,Right-arm offbreak,India
+200,SS Shaikh,1987-01-18,Right-hand bat,Right-arm medium,India
+201,R Ashwin,1986-09-17,Right-hand bat,Right-arm offbreak,India
+203,CA Pujara,1988-01-25,Right-hand bat,Legbreak,India
+205,Anirudh Singh,1980-08-02,Left-hand bat,Right-arm medium,India
+206,Jaskaran Singh,1989-09-04,Right-hand bat,Right-arm medium,India
+207,AP Tare,1987-11-07,Right-hand bat,N/A,India
+208,AT Rayudu,1985-09-23,Right-hand bat,Right-arm offbreak,India
+209,R Sathish,1981-01-14,Right-hand bat,Right-arm medium,India
+211,AA Jhunjhunwala,1982-12-01,Right-hand bat,Right-arm offbreak,India
+212,P Dogra,1984-11-19,Right-hand bat,Legbreak,India
+213,A Uniyal,1981-11-21,Left-hand bat,Left-arm medium,India
+214,MS Bisla,1984-12-27,Right-hand bat,N/A,India
+215,YA Abdulla,1983-01-17,Left-hand bat,Left-arm fast-medium,India
+218,S Tyagi,1987-09-17,Right-hand bat,Right-arm medium,India
+219,RS Gavaskar,1976-02-20,Left-hand bat,Slow left-arm orthodox,India
+222,S Ladda,1986-07-10,Right-hand bat,Legbreak,India
+226,S Narwal,1982-04-16,Left-hand bat,Right-arm medium,India
+227,AB Barath,1990-04-14,Right-hand bat,Right-arm offbreak,India
+228,Bipul Sharma,1983-09-28,Left-hand bat,Slow left-arm orthodox,India
+229,FY Fazal,1985-09-07,Left-hand bat,Right-arm medium,India
+231,MD Mishra,1984-02-09,Right-hand bat,Right-arm offbreak,India
+232,UT Yadav,1987-10-25,Right-hand bat,Right-arm fast-medium,India
+234,SJ Srivastava,1981-09-22,Right-hand bat,Left-arm fast-medium,India
+235,R Sharma,1987-04-30,Right-hand bat,Right-arm offbreak,India
+236,Mandeep Singh,1991-12-18,Right-hand bat,Right-arm medium,India
+237,KM Jadhav,1985-03-26,Right-hand bat,Right-arm offbreak,India
+239,KB Arun Karthik,1986-02-15,Right-hand bat,Legbreak googly,India
+243,VS Malik,1983-05-09,Right-hand bat,Right-arm medium,India
+244,A Mithun,1989-10-25,Right-hand bat,Right-arm medium,India
+245,AP Dole,1987-10-09,Right-hand bat,Right-arm medium-fast,India
+246,AN Ahmed,1988-11-05,Right-hand bat,Right-arm medium-fast,India
+247,RS Sodhi,1980-10-18,Right-hand bat,Right-arm medium,India
+249,S Sriram,1976-02-21,Left-hand bat,Slow left-arm orthodox,India
+250,B Sumanth,1988-05-10,Right-hand bat,Right-arm medium-fast,India
+251,C Madan,1982-10-15,Right-hand bat,N/A,India
+252,AG Paunikar,1988-04-18,Right-hand bat,N/A,India
+255,STR Binny,1984-06-03,Right-hand bat,Right-arm medium,India
+256,Harmeet Singh,1992-09-07,Left-hand bat,Slow left-arm orthodox,India
+257,IR Jaggi,1989-01-27,Right-hand bat,Legbreak googly,India
+259,RV Gomez,1985-10-16,Right-hand bat,Right-arm medium,India
+260,MA Agarwal,1991-02-16,Right-hand bat,N/A,India
+261,AUK Pathan,1984-06-17,Right-hand bat,Right-arm medium,India
+262,UBT Chand,1993-03-26,Right-hand bat,Right-arm offbreak,India
+264,Sunny Singh,1986-12-18,Right-hand bat,Right-arm medium-fast,India
+266,AL Menaria,1990-10-29,Left-hand bat,Slow left-arm orthodox,India
+269,R Ninan,1985-11-19,Right-hand bat,Right-arm offbreak,India
+270,S Aravind,1984-04-08,Left-hand bat,Left-arm medium-fast,India
+273,SB Wagh,1988-10-09,Left-hand bat,Left-arm medium-fast,India
+277,DH Yagnik,1983-06-22,Left-hand bat,N/A,India
+283,J Syed Mohammad,1983-06-03,Left-hand bat,Slow left-arm orthodox,India
+286,AG Murtaza,1990-01-01,Left-hand bat,Slow left-arm orthodox,India
+287,Harpreet Singh,1991-08-11,Left-hand bat,Right-arm medium,India
+290,I Malhotra,1984-05-23,Right-hand bat,Right-arm medium-fast,India
+291,L Ablish,1982-12-03,Right-hand bat,Right-arm medium-fast,India
+293,S Nadeem,1989-08-12,Right-hand bat,Slow left-arm orthodox,India
+294,P Parameswaran,1985-05-30,Right-hand bat,Left-arm medium,India
+296,VR Aaron,1989-10-29,Right-hand bat,Right-arm fast,India
+297,AA Chavan,1985-10-28,Left-hand bat,Slow left-arm orthodox,India
+298,ND Doshi,1978-10-06,Right-hand bat,Slow left-arm orthodox,India
+299,B Kumar,1990-02-05,Right-hand bat,Right-arm medium,India
+300,Y Gnaneswara Rao,1984-08-25,Right-hand bat,Right-arm medium,India
+301,S Rana,1984-09-18,Right-hand bat,Right-arm medium-fast,India
+302,BA Bhatt,1990-05-13,Left-hand bat,Slow left-arm orthodox,India
+306,SPD Smith,1989-06-02,Right-hand bat,Legbreak googly,India
+308,SA Yadav,1990-09-14,Right-hand bat,Right-arm offbreak,India
+311,HV Patel,1990-11-23,Right-hand bat,Right-arm medium,India
+314,Ankit Sharma,1991-04-20,Left-hand bat,Slow left-arm orthodox,India
+317,RR Bhatkal,1985-09-01,Right-hand bat,Right-arm medium,India
+319,N Saini,1988-10-28,Right-hand bat,N/A,India
+322,P Negi,1993-01-06,Left-hand bat,Slow left-arm orthodox,India
+325,A Ashish Reddy,1991-02-24,Right-hand bat,Right-arm medium,India
+326,V Pratap Singh,1992-05-03,Right-hand bat,Right-arm medium,India
+327,BB Samantray,1988-12-14,Right-hand bat,N/A,India
+329,Gurkeerat Singh,1990-06-29,Right-hand bat,Right-arm offbreak,India
+330,AP Majumdar,1984-04-30,Right-hand bat,Legbreak googly,India
+331,PA Reddy,1991-02-11,Right-hand bat,Legbreak,India
+332,K Upadhyay,1986-06-18,Right-hand bat,Right-arm medium,India
+333,P Awana,1986-07-19,Right-hand bat,Right-arm medium,India
+335,A Chandila,1983-12-05,Right-hand bat,Right-arm offbreak,India
+337,Sunny Gupta,1988-09-27,Right-hand bat,Right-arm offbreak,India
+338,MC Juneja,1990-09-12,Right-hand bat,Right-arm offbreak,India
+339,KK Nair,1991-12-06,Right-hand bat,Right-arm offbreak,India
+340,GH Vihari,1993-10-13,Right-hand bat,Right-arm offbreak,India
+342,R Shukla,1990-08-28,Right-hand bat,Right-arm medium,India
+344,AS Rajpoot,1993-12-04,Right-hand bat,Right-arm medium,India
+345,M Vohra,1993-07-18,Right-hand bat,Right-arm medium,India
+346,JD Unadkat,1991-10-18,Right-hand bat,Left-arm medium,India
+347,Mohammed Shami,1990-09-03,Right-hand bat,Right-arm fast-medium,India
+351,SV Samson,1994-11-11,Right-hand bat,N/A,India
+354,KL Rahul,1992-04-18,Right-hand bat,N/A,India
+356,R Dhawan,1990-02-19,Right-hand bat,Right-arm medium-fast,India
+359,IC Pandey,1989-08-15,Right-hand bat,Right-arm medium,India
+360,CM Gautam,1986-03-08,Right-hand bat,N/A,India
+361,X Thalaivan Sargunam,1985-05-15,Right-hand bat,Right-arm offbreak,India
+364,MM Sharma,1988-09-18,Right-hand bat,Right-arm medium,India
+365,UA Birla,1989-11-17,Right-hand bat,Right-arm medium,India
+366,Parvez Rasool,1989-02-13,Right-hand bat,Right-arm offbreak,India
+367,Sandeep Sharma,1993-05-18,Right-hand bat,Right-arm medium,India
+368,S Kaul,1990-05-19,Right-hand bat,Right-arm medium,India
+369,Sachin Baby,1988-12-18,Left-hand bat,Right-arm offbreak,India
+370,PV Tambe,1971-10-08,Right-hand bat,Legbreak,India
+374,AR Patel,1994-01-20,Left-hand bat,Slow left-arm orthodox,India
+375,JJ Bumrah,1993-12-06,Right-hand bat,Right-arm medium,India
+381,Shivam Sharma,1993-09-09,Right-hand bat,Right-arm offbreak,India
+382,YS Chahal,1990-07-23,Right-hand bat,Legbreak googly,India
+384,VH Zol,1994-11-23,Left-hand bat,Right-arm offbreak,India
+386,Imran Tahir,1979-03-27,Right-hand bat,Legbreak googly,India
+388,S Gopal,1993-09-04,Right-hand bat,Legbreak,India
+390,R Tewatia,1993-05-20,Left-hand bat,Legbreak,India
+392,Karanveer Singh,1987-11-08,Right-hand bat,Legbreak googly,India
+393,SS Iyer,1994-12-06,Right-hand bat,Legbreak googly,India
+394,DJ Hooda,1995-04-19,Right-hand bat,Right-arm offbreak,India
+395,Anureet Singh,1988-03-02,Right-hand bat,Right-arm medium,India
+398,J Suchith,1994-01-16,Left-hand bat,Slow left-arm orthodox,India
+399,RG More,1992-02-02,Right-hand bat,Right-arm medium,India
+400,HH Pandya,1993-10-11,Right-hand bat,Right-arm medium-fast,India
+402,SN Khan,1997-10-27,Right-hand bat,Legbreak,India
+404,DJ Muthuswami,1981-03-09,Right-hand bat,Right-arm medium,India
+406,SN Thakur,1991-10-16,Right-hand bat,Right-arm medium,India
+410,Ishan Kishan,1998-07-18,Left-hand bat,N/A,India
+412,P Sahu,1985-08-21,Right-hand bat,Legbreak googly,India
+413,KH Pandya,1991-03-24,Left-hand bat,Slow left-arm orthodox,India
+414,AD Nath,1993-05-10,Right-hand bat,Right-arm medium-fast,India
+418,M Ashwin,1990-09-08,Right-hand bat,Legbreak googly,India
+419,NS Naik,1994-11-09,Right-hand bat,N/A,India
+420,RR Pant,1997-10-04,Left-hand bat,N/A,India
+422,KC Cariappa,1994-04-13,Right-hand bat,Legbreak,India
+424,Swapnil Singh,1991-01-22,Right-hand bat,Slow left-arm orthodox,India
+425,J Yadav,1990-01-22,Right-hand bat,Right-arm offbreak,India
+429,BB Sran,1992-12-10,Left-hand bat,Left-arm medium,India
+431,N Rana,1993-12-27,Left-hand bat,Right-arm offbreak,India
+432,S Kaushik,1995-09-07,Right-hand bat,Slow left-arm chinaman,India
+433,ER Dwivedi,1988-07-22,Right-hand bat,N/A,India
+435,P Amarnath,1982-06-01,Right-hand bat,Right-arm medium,India
+437,Gagandeep Singh,1981-10-03,Right-hand bat,Right-arm medium-fast,India
+439,AM Salvi,1981-10-20,Right-hand bat,Right-arm medium,India
+440,RR Bose,1979-02-27,Right-hand bat,Right-arm fast-medium,India
+441,SS Sarkar,1984-12-15,Right-hand bat,Right-arm medium,India
+442,RA Shaikh,1985-06-12,Left-hand bat,Left-arm medium,India
+443,C Ganapathy,1981-06-10,Right-hand bat,Right-arm medium,India
+444,MB Parmar,1988-04-12,Right-hand bat,Right-arm offbreak,India
+445,AA Kazi,1989-09-29,Left-hand bat,Slow left-arm orthodox,India
+446,Anand Rajan,1987-04-17,Right-hand bat,Right-arm medium,India
+447,P Prasanth,1985-05-22,Left-hand bat,Slow left-arm orthodox,India
+448,SS Mundhe,1988-10-27,Right-hand bat,Right-arm medium,India
+450,TP Sudhindra,1984-04-24,Left-hand bat,Right-arm fast,India
+453,P Suyal,1989-10-15,Right-hand bat,Left-arm medium,India
+455,V Shankar,1991-01-26,Right-hand bat,Right-arm medium,India
+462,Kuldeep Yadav,1994-12-14,Left-hand bat,Slow left-arm chinaman,India
+465,DL Chahar,1992-08-07,Right-hand bat,Right-arm medium,India
+466,P Dharmani,1974-09-27,Right-hand bat,N/A,India
+467,RV Pawar,1979-09-06,Left-hand bat,Slow left-arm orthodox,India
+468,KH Devdhar,1989-12-14,Right-hand bat,N/A,India
+469,T Mishra,1986-12-22,Right-hand bat,Right-arm fast-medium,India
+470,A Choudhary,1990-01-28,Right-hand bat,Left-arm medium,India
+472,Ankit Soni,1993-08-02,Right-hand bat,Legbreak,India
+473,AR Bawne,1992-12-17,Right-hand bat,Right-arm offbreak,India
+474,Avesh Khan,1996-12-13,Right-hand bat,Right-arm medium-fast,India
+477,Basil Thampi,1993-09-11,Right-hand bat,Right-arm fast-medium,India
+486,Mohammed Siraj,1994-03-13,Right-hand bat,Right-arm medium-fast,India
+487,NB Singh,1995-09-08,Right-hand bat,Right-arm medium,India
+488,RA Tripathi,1991-03-02,Right-hand bat,Right-arm medium,India
+490,RD Chahar,1999-08-04,Right-hand bat,Legbreak googly,India
+491,SP Jackson,1986-09-27,Right-hand bat,NULL,India
+492,SS Agarwal,1993-11-21,Right-hand bat,Legbreak googly,India
+493,T Natarajan,1991-05-27,Left-hand bat,Left-arm medium,India
+494,Tejas Baroka,1996-02-01,Right-hand bat,Legbreak googly,India
+496,Vishnu Vinod,1993-12-02,Right-hand bat,NULL,India
+497,Washington Sundar,1999-10-05,Left-hand bat,Right-arm offbreak,India

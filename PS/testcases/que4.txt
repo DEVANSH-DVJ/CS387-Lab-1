@@ -1,0 +1,1 @@
+select sum(runs_scored),striker from ball_by_ball group by striker;
