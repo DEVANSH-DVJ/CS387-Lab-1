@@ -33,3 +33,58 @@ def setup():
         tables[file[:-4]] = table
 
     return tables
+
+
+# ### Queries ### #
+def q1a(query, tables):
+    res = query
+
+    return res
+
+
+def q1b(query, tables):
+    res = query
+
+    return res
+
+
+def q1c(query, tables):
+    res = query
+
+    return res
+
+
+def q2(query, tables):
+    res = query
+
+    return res
+
+
+def q3(query, tables):
+    res = query
+
+    return res
+
+
+def q4(query, tables):
+    res = query
+
+    return res
+
+
+def q5(query, tables):
+    res = query
+
+    return res
+
+
+# ### Helper functionalities ### #
+def clean(query):
+    query = query.strip()
+    if query[-1] == ';':
+        return query[:-1].strip()
+    return query
+
+
+def output(res):
+    print(res)
