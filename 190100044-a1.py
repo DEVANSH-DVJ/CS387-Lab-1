@@ -81,7 +81,19 @@ def q1c(query, tables):
 
 
 def q2(query, tables):
-    res = query
+    table1 = query.split('from')[1].split('where')[0].split(',')[0].strip()
+    table2 = query.split('from')[1].split('where')[0].split(',')[1].strip()
+    column1 = query.split('where')[1].split('=')[0].split('.')[1].strip()
+    column2 = query.split('where')[1].split('=')[1].split('.')[1].strip()
+
+    col1_no = tables[table1]['header'].index(column1)
+    col2_no = tables[table2]['header'].index(column2)
+
+    res = []
+    for row1 in tables[table1]['data']:
+        for row2 in tables[table2]['data']:
+            if row1[col1_no] == row2[col2_no]:
+                res.append(row1 + row2)
 
     return res
 
