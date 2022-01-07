@@ -122,7 +122,10 @@ def clean(query):
 
 
 def output(res):
-    print(res)
+    for row in res:
+        for iter in range(len(row) - 1):
+            print(row[iter], end=',')
+        print(row[-1])
 
 
 if __name__ == '__main__':
@@ -133,7 +136,7 @@ if __name__ == '__main__':
 
         if qtype == '0':
             print('exiting...')
-            exit(0)
+            break
 
         if qtype == '1a':
             query = clean(input('Enter your query: '))
@@ -149,7 +152,7 @@ if __name__ == '__main__':
             output(q2(query, tables))
         elif qtype == '3':
             query = clean(input('Enter your query: '))
-            output(q3(query, tables))
+            print(q3(query, tables))
         elif qtype == '4':
             query = clean(input('Enter your query: '))
             output(q4(query, tables))
