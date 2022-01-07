@@ -59,7 +59,23 @@ def q1b(query, tables):
 
 
 def q1c(query, tables):
-    res = query
+    column_list = query.split('select')[1].split('from')[0].split(',')
+    table = query.split('from')[1].split('where')[0].strip()
+    main_column = query.split('where')[1].split('=')[0].strip()
+    value = query.split('where')[1].split('=')[1].strip().strip('\'')
+
+    col_no_list = []
+    for column in column_list:
+        col_no_list.append(tables[table]['header'].index(column.strip()))
+    main_col_no = tables[table]['header'].index(main_column)
+
+    res = []
+    for row in tables[table]['data']:
+        if row[main_col_no] == value:
+            sel = []
+            for col_no in col_no_list:
+                sel.append(row[col_no])
+            res.append(sel)
 
     return res
 
