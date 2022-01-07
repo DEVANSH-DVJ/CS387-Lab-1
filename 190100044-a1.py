@@ -37,7 +37,8 @@ def setup():
 
 # ### Queries ### #
 def q1a(query, tables):
-    res = query
+    table = query.split('from')[1].strip()
+    res = tables[table]['data']
 
     return res
 
