@@ -88,3 +88,36 @@ def clean(query):
 
 def output(res):
     print(res)
+
+
+if __name__ == '__main__':
+    tables = setup()
+
+    while(True):
+        qtype = input('Query Type? ').strip()
+
+        if qtype == '0':
+            print('exiting...')
+            exit(0)
+
+        if qtype == '1a':
+            query = clean(input('Enter your query: '))
+            output(q1a(query, tables))
+        elif qtype == '1b':
+            query = clean(input('Enter your query: '))
+            output(q1b(query, tables))
+        elif qtype == '1c':
+            query = clean(input('Enter your query: '))
+            output(q1c(query, tables))
+        elif qtype == '2':
+            query = clean(input('Enter your query: '))
+            output(q2(query, tables))
+        elif qtype == '3':
+            query = clean(input('Enter your query: '))
+            output(q3(query, tables))
+        elif qtype == '4':
+            query = clean(input('Enter your query: '))
+            output(q4(query, tables))
+        elif qtype == '5':
+            query = clean(input('Enter your query: '))
+            output(q5(query, tables))
