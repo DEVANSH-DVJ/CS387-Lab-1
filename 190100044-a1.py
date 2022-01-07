@@ -87,7 +87,16 @@ def q2(query, tables):
 
 
 def q3(query, tables):
-    res = query
+    table = query.split('from')[1].split('where')[0].strip()
+    column = query.split('where')[1].split('=')[0].strip()
+    value = query.split('where')[1].split('=')[1].strip().strip('\'')
+
+    col_no = tables[table]['header'].index(column)
+
+    res = 0
+    for row in tables[table]['data']:
+        if row[col_no] == value:
+            res += 1
 
     return res
 
