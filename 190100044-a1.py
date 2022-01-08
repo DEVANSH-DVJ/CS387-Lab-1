@@ -120,7 +120,31 @@ def q4(query, tables):
 
 
 def q5(query, tables):
-    res = query
+    column_list = query.split('select')[1].split('from')[0].split(',')
+    table = query.split('from')[2].split('where')[0].strip()
+    column1 = query.split('where')[1].split('=')[0].strip()
+    value1 = query.split('where')[1].split('=')[1].strip().strip(')').strip().strip('\'')
+    column2 = query.split('where')[2].split('=')[0].strip()
+    value2 = query.split('where')[2].split('=')[1].strip().strip('\'')
+
+    col_no_list = []
+    for column in column_list:
+        col_no_list.append(tables[table]['header'].index(column.strip()))
+    col1_no = tables[table]['header'].index(column1)
+    col2_no = tables[table]['header'].index(column2)
+
+    residue = []
+    for row in tables[table]['data']:
+        if row[col1_no] == value1:
+            residue.append(row)
+
+    res = []
+    for row in residue:
+        if row[col2_no] == value2:
+            sel = []
+            for col_no in col_no_list:
+                sel.append(row[col_no])
+            res.append(sel)
 
     return res
 
