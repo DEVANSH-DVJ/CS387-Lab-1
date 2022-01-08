@@ -37,16 +37,16 @@ def setup():
 
 # ### Queries ### #
 def q1a(query, tables):
-    table = query.split('from')[1].strip()
+    table = query.split(' from ')[1].strip()
     res = tables[table]['data']
 
     return res
 
 
 def q1b(query, tables):
-    table = query.split('from')[1].split('where')[0].strip()
-    column = query.split('where')[1].split('=')[0].strip()
-    value = query.split('where')[1].split('=')[1].strip().strip('\'')
+    table = query.split(' from ')[1].split(' where ')[0].strip()
+    column = query.split(' where ')[1].split(' = ')[0].strip()
+    value = query.split(' where ')[1].split(' = ')[1].strip().strip('\'')
 
     col_no = tables[table]['header'].index(column)
 
@@ -59,10 +59,10 @@ def q1b(query, tables):
 
 
 def q1c(query, tables):
-    column_list = query.split('select')[1].split('from')[0].split(',')
-    table = query.split('from')[1].split('where')[0].strip()
-    main_column = query.split('where')[1].split('=')[0].strip()
-    value = query.split('where')[1].split('=')[1].strip().strip('\'')
+    column_list = query.split('select')[1].split(' from ')[0].split(',')
+    table = query.split(' from ')[1].split(' where ')[0].strip()
+    main_column = query.split(' where ')[1].split(' = ')[0].strip()
+    value = query.split(' where ')[1].split(' = ')[1].strip().strip('\'')
 
     col_no_list = []
     for column in column_list:
@@ -81,10 +81,10 @@ def q1c(query, tables):
 
 
 def q2(query, tables):
-    table1 = query.split('from')[1].split('where')[0].split(',')[0].strip()
-    table2 = query.split('from')[1].split('where')[0].split(',')[1].strip()
-    column1 = query.split('where')[1].split('=')[0].split('.')[1].strip()
-    column2 = query.split('where')[1].split('=')[1].split('.')[1].strip()
+    table1 = query.split(' from ')[1].split(' where ')[0].split(',')[0].strip()
+    table2 = query.split(' from ')[1].split(' where ')[0].split(',')[1].strip()
+    column1 = query.split(' where ')[1].split(' = ')[0].split('.')[1].strip()
+    column2 = query.split(' where ')[1].split(' = ')[1].split('.')[1].strip()
 
     col1_no = tables[table1]['header'].index(column1)
     col2_no = tables[table2]['header'].index(column2)
@@ -99,9 +99,9 @@ def q2(query, tables):
 
 
 def q3(query, tables):
-    table = query.split('from')[1].split('where')[0].strip()
-    column = query.split('where')[1].split('=')[0].strip()
-    value = query.split('where')[1].split('=')[1].strip().strip('\'')
+    table = query.split(' from ')[1].split(' where ')[0].strip()
+    column = query.split(' where ')[1].split(' = ')[0].strip()
+    value = query.split(' where ')[1].split(' = ')[1].strip().strip('\'')
 
     col_no = tables[table]['header'].index(column)
 
@@ -114,9 +114,9 @@ def q3(query, tables):
 
 
 def q4(query, tables):
-    column_list = query.split('select')[1].split('from')[0].split(',')
-    table = query.split('from')[1].split('group')[0].strip()
-    column = query.split('by')[1].strip()
+    column_list = query.split('select')[1].split(' from ')[0].split(',')
+    table = query.split(' from ')[1].split(' group ')[0].strip()
+    column = query.split(' by ')[1].strip()
 
     if column_list[0].strip() == column:
         subtype = 0
@@ -146,12 +146,12 @@ def q4(query, tables):
 
 
 def q5(query, tables):
-    column_list = query.split('select')[1].split('from')[0].split(',')
-    table = query.split('from')[2].split('where')[0].strip()
-    column1 = query.split('where')[1].split('=')[0].strip()
-    value1 = query.split('where')[1].split('=')[1].strip().strip(')').strip().strip('\'')
-    column2 = query.split('where')[2].split('=')[0].strip()
-    value2 = query.split('where')[2].split('=')[1].strip().strip('\'')
+    column_list = query.split('select')[1].split(' from ')[0].split(',')
+    table = query.split(' from ')[2].split(' where ')[0].strip()
+    column1 = query.split(' where ')[1].split(' = ')[0].strip()
+    value1 = query.split(' where ')[1].split(' = ')[1].strip().strip(')').strip().strip('\'')
+    column2 = query.split(' where ')[2].split(' = ')[0].strip()
+    value2 = query.split(' where ')[2].split(' = ')[1].strip().strip('\'')
 
     col_no_list = []
     for column in column_list:
