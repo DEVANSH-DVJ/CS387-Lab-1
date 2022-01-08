@@ -1,1 +1,12 @@
 select sum(runs_scored),striker from ball_by_ball group by striker;
+select sum (runs_scored),striker from ball_by_ball group by striker;
+select sum( runs_scored),striker from ball_by_ball group by striker;
+select sum(runs_scored ),striker from ball_by_ball group by striker;
+select sum(runs_scored) ,striker from ball_by_ball group by striker;
+select sum(runs_scored), striker from ball_by_ball group by striker;
+select sum(runs_scored) , striker from ball_by_ball group by striker;
+select sum ( runs_scored ) ,striker from ball_by_ball group by striker;
+select sum( runs_scored ),striker from ball_by_ball group by striker;
+select striker,sum(runs_scored) from ball_by_ball group by striker;
+select striker , sum(runs_scored) from ball_by_ball group by     striker;
+select striker,sum( runs_scored) from  ball_by_ball group    by striker;

@@ -1,1 +1,4 @@
 select * from match,team where match.match_winner = team.team_id;
+select * from match,     team where match.match_winner = team.team_id;
+select * from match , team where match.match_winner = team.team_id;
+select * from match,team    where  match.match_winner   =  team.team_id        ;

@@ -1,1 +1,6 @@
 select match_id, player_id, team_id from player_match where role_desc = 'Captain';
+select match_id,player_id,team_id from player_match where role_desc = 'Captain';
+select match_id,player_id,         team_id from player_match where role_desc = 'Captain';
+select match_id , player_id , team_id    from player_match where role_desc = 'Captain';
+select match_id, player_id, team_id from         player_match  where        role_desc  =  'Captain'      ;
+select player_id, team_id,match_id from         player_match  where        role_desc  =  'Captain'      ;

@@ -1,1 +1,6 @@
 select * from player where country_name = 'India';
+select * from player where country_name = 'India'
+select *       from player where country_name = 'India'
+select * from player     where country_name = 'India'
+select * from player where  country_name           =  'India'
+select * from player where country_name = 'India'
