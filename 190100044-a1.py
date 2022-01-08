@@ -115,8 +115,8 @@ def q3(query, tables):
 
 def q4(query, tables):
     column_list = query.split('select')[1].split('from')[0].split(',')
-    table = query.split('from')[1].split('group by')[0].strip()
-    column = query.split('group by')[1].strip()
+    table = query.split('from')[1].split('group')[0].strip()
+    column = query.split('by')[1].strip()
 
     if column_list[0].strip() == column:
         subtype = 0
@@ -221,3 +221,5 @@ if __name__ == '__main__':
         elif qtype == '5':
             query = clean(input('Enter your query: '))
             output(q5(query, tables))
+        else:
+            break
