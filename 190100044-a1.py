@@ -114,7 +114,33 @@ def q3(query, tables):
 
 
 def q4(query, tables):
-    res = query
+    column_list = query.split('select')[1].split('from')[0].split(',')
+    table = query.split('from')[1].split('group by')[0].strip()
+    column = query.split('group by')[1].strip()
+
+    if column_list[0].strip() == column:
+        subtype = 0
+        colX = column_list[1].split('sum')[1].strip().strip('()').strip()
+    else:
+        subtype = 1
+        colX = column_list[0].split('sum')[1].strip().strip('()').strip()
+
+    col_no = tables[table]['header'].index(column)
+    colX_no = tables[table]['header'].index(colX)
+
+    groups = {}
+    for row in tables[table]['data']:
+        if row[col_no] in groups.keys():
+            groups[row[col_no]] += int(row[colX_no])
+        else:
+            groups[row[col_no]] = int(row[colX_no])
+
+    res = []
+    for key in sorted(groups.keys()):
+        if subtype == 0:
+            res.append([key, groups[key]])
+        else:
+            res.append([groups[key], key])
 
     return res
 
